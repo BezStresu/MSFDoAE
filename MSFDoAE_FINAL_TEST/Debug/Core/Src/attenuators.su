@@ -1,0 +1,4 @@
+../Core/Src/attenuators.c:9:6:Delay_ns	24	static,ignoring_inline_asm
+../Core/Src/attenuators.c:16:6:SPI_Init_Att	8	static
+../Core/Src/attenuators.c:34:6:SPI_Write_Att	24	static
+../Core/Src/attenuators.c:86:6:SetAttenuation	32	static

@@ -1,0 +1,4 @@
+../Core/Src/attenuators.c:9:6:Delay_ns	2
+../Core/Src/attenuators.c:16:6:SPI_Init_Att	1
+../Core/Src/attenuators.c:34:6:SPI_Write_Att	9
+../Core/Src/attenuators.c:86:6:SetAttenuation	3

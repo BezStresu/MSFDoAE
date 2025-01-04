@@ -1,0 +1,5 @@
+../Core/Src/ad7606_stm32_JL.c:5:6:AD7606_Init	1
+../Core/Src/ad7606_stm32_JL.c:16:6:AD7606_Reset	1
+../Core/Src/ad7606_stm32_JL.c:24:6:AD7606_StartConversion	1
+../Core/Src/ad7606_stm32_JL.c:31:6:AD7606_WaitForBusy	3
+../Core/Src/ad7606_stm32_JL.c:41:6:AD7606_ReadData	4
